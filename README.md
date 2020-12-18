@@ -42,7 +42,7 @@ I will be including a few screenshots of some different programs so that you can
 
 
 ### I 💖 i3-gaps - Productivity stonks are up 1000% 📈 (Thanks Airblader and the i3wm team!)
-(Put i3 shot here)
+![i3wm](https://github.com/theMarblech/dotfiles/blob/main/2020-12-18-182502_1920x1080_scrot.png?raw=true)
 ---
 ### The Fish is friendly, don't worry! 🐟
 (Put fish shell shot here)
