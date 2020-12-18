@@ -1,10 +1,9 @@
-# For the benefit of emacs users: -*- shell-script -*-
-#
-#  _ _____ _     _            _
-# (_)___ /| |__ | | ___   ___| | _____
-# | | |_ \| '_ \| |/ _ \ / __| |/ / __|
-# | |___) | |_) | | (_) | (__|   <\__ \
-# |_|____/|_.__/|_|\___/ \___|_|\_\___/
+# theMarble i3blocks config
+# -------------------------
+# Use this however you want!
+# GPL v3 License applies to this file
+# -------------------------
+# https://github.com/theMarblech
 
 align=center
 separator=false
