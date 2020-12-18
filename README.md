@@ -45,7 +45,7 @@ I will be including a few screenshots of some different programs so that you can
 ![i3wm](https://github.com/theMarblech/dotfiles/blob/main/2020-12-18-182502_1920x1080_scrot.png?raw=true)
 ---
 ### The Fish is friendly, don't worry! 🐟
-(Put fish shell shot here)
+![i3wm](https://github.com/theMarblech/dotfiles/blob/main/2020-12-18-183340_1920x1080_scrot.png?raw=true)
 ---
 ### Want to launch some apps? 🚀
 (Rofi screenshot here)
