@@ -45,10 +45,10 @@ I will be including a few screenshots of some different programs so that you can
 ![i3wm](https://github.com/theMarblech/dotfiles/blob/main/2020-12-18-182502_1920x1080_scrot.png?raw=true)
 ---
 ### The Fish is friendly, don't worry! 🐟
-![i3wm](https://github.com/theMarblech/dotfiles/blob/main/2020-12-18-183340_1920x1080_scrot.png?raw=true)
+![fish](https://github.com/theMarblech/dotfiles/blob/main/2020-12-18-183340_1920x1080_scrot.png?raw=true)
 ---
 ### Want to launch some apps? 🚀
-(Rofi screenshot here)
+![rofi](https://github.com/theMarblech/dotfiles/blob/main/2020-12-18-200552_1920x1080_scrot.png?raw=true)
 ---
 
 ### Thanks for checking out my dotfiles! 😊  
